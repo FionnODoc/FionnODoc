@@ -1,16 +1,15 @@
 # Hi there, I'm Fionn O'Dochartaigh! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/FionnODoc?label=Follow&style=social)](https://github.com/FionnODoc)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fionn-odonoghue)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fionn-odonoghue](https://www.linkedin.com/in/fionn-o-dochartaigh-024b54261/))
 
-## 🚀 About Me
+##  About Me
 
-I'm a passionate Computer Science student at SETU Waterford, focused on Forensics & Cyber Security. Welcome to my GitHub profile!  
+I'm a passionate 3rd year Computer Science student at SETU Waterford, focused on Forensics & Cyber Security. 
 
-- 🔭 Currently working on Java, JavaFX, and cybersecurity projects  
-- 🌱 Always learning new technologies and improving my skills  
-- 💡 Open to collaboration on interesting projects  
-- 📫 Feel free to reach out for opportunities
+-  Currently working on Devops, AWS, Python, Javascript, React, Cybersecurity, Pentesting, Network Forensics.  
+-  Always learning new technologies and improving my skills  
+-  Feel free to reach out for opportunities
 
 ## 🛠️ Technologies & Tools
 
@@ -29,9 +28,8 @@ I'm a passionate Computer Science student at SETU Waterford, focused on Forensic
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/fionn-odonoghue)  
-- 🐦 [Twitter](https://twitter.com/fionnodoc)  
-- 📧 Email: onnodochartaigh@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fionn-o-dochartaigh-024b54261/) 
+- 📧 Email: fionnodochartaigh@gmail.com  
 
 ---
 
