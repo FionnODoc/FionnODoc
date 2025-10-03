@@ -1,7 +1,5 @@
-# Hi there, I'm Fionn O'Dochartaigh! 👋
+# Hi there, I'm Fionn O'Dochartaigh
 
-[![GitHub followers](https://img.shields.io/github/followers/FionnODoc?label=Follow&style=social)](https://github.com/FionnODoc)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fionn-o-dochartaigh-024b54261/))
 
 ##  About Me
 
