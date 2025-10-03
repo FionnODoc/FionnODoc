@@ -1,7 +1,7 @@
 # Hi there, I'm Fionn O'Dochartaigh! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/FionnODoc?label=Follow&style=social)](https://github.com/FionnODoc)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fionn-odonoghue](https://www.linkedin.com/in/fionn-o-dochartaigh-024b54261/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fionn-o-dochartaigh-024b54261/))
 
 ##  About Me
 
@@ -11,7 +11,7 @@ I'm a passionate 3rd year Computer Science student at SETU Waterford, focused on
 -  Always learning new technologies and improving my skills  
 -  Feel free to reach out for opportunities
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-0078D7?style=flat)
@@ -20,11 +20,6 @@ I'm a passionate 3rd year Computer Science student at SETU Waterford, focused on
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🔥 Recent Projects
-
-- 🎭 **Theatre Booking System** – Custom Java data structures + JavaFX GUI  
-- 💉 **Vaccine Management System** – Java & LinkedLists for patient/booth management  
-- 🗺️ **Route Finder** – BFS, DFS, Dijkstra pathfinding visualised in JavaFX  
 
 ## 📫 Connect With Me
 
@@ -33,4 +28,4 @@ I'm a passionate 3rd year Computer Science student at SETU Waterford, focused on
 
 ---
 
-⭐️ From [FionnODoc](https://github.com/FionnODoc)
+ From [FionnODoc](https://github.com/FionnODoc)
