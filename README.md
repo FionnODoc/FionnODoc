@@ -22,7 +22,7 @@ I'm a passionate 3rd year Computer Science student at SETU Waterford, focused on
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fionn-o-dochartaigh-024b54261/) 
-- 📧 Email: fionnodochartaigh@gmail.com  
+
 
 ---
 
