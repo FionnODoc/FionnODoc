@@ -3,7 +3,7 @@
 
 ##  About Me
 
-I'm a passionate 3rd year Computer Science student at SETU Waterford, focused on Forensics & Cyber Security. 
+I'm a passionate 4th year Computer Science student at SETU Waterford, focused on Forensics & Cyber Security. 
 
 -  Currently working on Devops, AWS, Python, Javascript, React, Cybersecurity, Pentesting, Network Forensics.  
 -  Always learning new technologies and improving my skills  
